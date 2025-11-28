@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nIBGQW+GVA9ukfkRwVUqG5uGvL9WwMIe3MyMd6ewy1sdaSWisCung9IoTLuzi+HoElt2mdpBsfYaYlLRJQVy4A==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Kafka\\KafkaMicroservice\\ClassLibrary1\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\confluent.kafka\\2.12.0\\confluent.kafka.2.12.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\librdkafka.redist\\2.12.0\\librdkafka.redist.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
